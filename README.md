@@ -2,7 +2,7 @@
 
 ## Aperçu de la Compétition
 
-Ce projet documente ma participation à la compétition "[Navires 2023 - La Mano](https://www.kaggle.com/competitions/navires-2023-la-mano)" sur Kaggle. L'objectif était de développer un réseau de neurones convolutifs pour classer avec précision des images de bateaux de taille 32x32.
+Ce projet documente ma participation à la compétition "[Navires 2023 - La Mano](https://www.kaggle.com/competitions/navires-2023-la-mano)" sur Kaggle. L'objectif était de développer un réseau de neurones convolutifs pour classer avec précision des images de bateaux de taille 16x24.
 
 ## Réalisation
 
